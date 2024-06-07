@@ -4,7 +4,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC6nEk-T2CFzkDlGRGTev8FyhhId-8-wRs",
+  apiKey: "FIREBASE_API",
   authDomain: "krishi--mitra.firebaseapp.com",
   projectId: "krishi--mitra",
   storageBucket: "krishi--mitra.appspot.com",
